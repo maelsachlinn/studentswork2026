@@ -1,0 +1,52 @@
+@charset "utf-8";
+body,td,th {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    background-color: #494747; 
+    color: #E4E4E4; 
+}
+h1 {
+	font-size: 48px;
+}
+h2 {
+	font-size: 26px;
+}
+body{
+      background-color:#5984C8;
+        
+    }
+    #wrapper{}
+ul li{
+    list-style-type: none;
+    font-size: 20px;
+    
+}
+    
+    a {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	font-size: 20px;
+	color: #E4E4E4;
+}
+a:visited {
+	color: #E4E4E4;
+}
+a:hover {
+	color: #680A0C;
+}
+a:active {
+	color: #E4E4E4;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-style: normal;
+}
+h1 {
+	font-size: 36px;
+    text-align: center;
+}
+h2 {
+	font-size: 24px;
+     text-align: center;
+}
+.fb-like{
+    background-color: aliceblue;
+}
